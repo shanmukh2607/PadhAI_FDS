@@ -1,4 +1,4 @@
-#Assignment 3 : Fitting Data and Plotting
+# Assignment 3 : Fitting Data and Plotting
 
 This assignment uses Matplotlib and Scipy to estimate a linear fit to a data with noise.<br>
 EE19B009_Assignment3_EE2703.py contains all the code written in Python.
